@@ -3,11 +3,13 @@ Dobrodošli
 
 To je spletni priročnik za pomoč in reševanje težav pri uporabi informacijskega sistema `eTaborniki <https://etaborniki.ksoft.si>`_.
 
+
 **Delitev**:
 * eVodnik
 * eRod
 * eSporočila
 * eBlagajna (WIP)
+
 
 Dodatne informacije in zahteve
 ------------------------------
