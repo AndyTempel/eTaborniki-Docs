@@ -20,7 +20,7 @@ Ob prvi prijavi bo spletna alikacija zahtevala nekaj dovoljenj:
 
 **Lokacija**: Če v nastavitvah omogočite, da spletna stran spremlja vašo lokacijo, vas bo brskalnik vprašal, če le to dovolite. Izberite "Dovoli" s tem bomo lažje zagotavljali storitve glede na vašo regijo, na primer vreme.
 
-**Brskalnik**: Priporočljivo je, da uporabljate `Google Chrome <https://www.google.com/chrome/>`, v brskalniku *Internet Explorer* nekatere funkcije ne bodo delovale. Večina delov strani je prilagojenih na mobilne naprave, vendar strani, ki vsebujejo velike table lahko izmaličijo podobo na mobilnih napravah.
+**Brskalnik**: Priporočljivo je, da uporabljate `Google Chrome <https://www.google.com/chrome/>`_, v brskalniku *Internet Explorer* nekatere funkcije ne bodo delovale. Večina delov strani je prilagojenih na mobilne naprave, vendar strani, ki vsebujejo velike table lahko izmaličijo podobo na mobilnih napravah.
 
 Varnost
 -------
